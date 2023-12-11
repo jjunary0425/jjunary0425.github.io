@@ -7,16 +7,26 @@
 - 가까운 리전에 접속하여 네트워크 속도를 빠르게 한다
 - 재해에 대비
 
-## 가용 영역 `Avalabilty Zone`　
-- 데이터 센터
-- 같은 지역 도시라해도 멀리 떨어져있음
-- 하나의 가용영역이 작동불능이 되더라도 다른 가용영역에서 서비스 재개
+![AWS GLOBAL Infra](../../images/AWS/AWS_Global_Region.png)
 
-## CDN `Contents Delivery Network`
--콘텐츠 `HTML, imgae, 동영상`를 사용자들이 빠르게 받을 수 있도록 전 세계 곳곳에 위치한 캐시서버에 복사해주는 서비스
-- 가까운 위치의 CDN에 접속하는 것이 전송속도가 빠름
-- 전 세계 주요도시에 캐시 서버 구축
+## AWS Regions
+- AWS has Regions all around the world 
+- Names can be us-east-1, eu-west-3... 
+- A region is a cluster of data centers
+- Most AWS services are region-scoped
 
-## 엣지 로케이션
-- CDN 캐시서버는 인터넷 트래픽을 효과적으로 처리할 수 있는 지역에 POP를 구축
-- CDN서비스와 사용자가 직접 만나는 곳: `엣지`
+## How to choose an AWS Region?
+1. Compliance with data governance and legal requirements: data never leaves a region without your explicit permission
+1. Proximity to customers: reduced latency
+1. Available services within a Region: new services
+and new features aren’t available in every Region
+?
+1. Pricing: pricing varies region to region and is transparent in the service pricing page
+
+## 리전 선정 기준
+1. 데이터 거버넌스 및 법적 요구 사항 준수: 명시적인 허가 없이는 데이터가 지역을 떠나지 않게
+1. 고객과의 근접성: 대기 시간 감소
+1. 지역 내 이용 가능한 서비스 : 신규 서비스
+일부 지역만 가능한 새로운 기능
+1. 가격: 가격은 지역마다 다르며 서비스 가격 페이지에 투명하게 표시
+
