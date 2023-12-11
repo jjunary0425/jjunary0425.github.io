@@ -2,7 +2,6 @@
 authors = ["RimaPa"]
 language = "en"
 multilingual = false
-src = "src"
 title = "Rimapa`s study book"
 includes = ["**/*.svg"]
 
