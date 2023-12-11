@@ -3,4 +3,28 @@ authors = ["RimaPa"]
 language = "en"
 multilingual = false
 src = "src"
-title = "rimapa`s study book"
+title = "Rimapa`s study book"
+includes = ["**/*.svg"]
+
+
+[output.html]
+mathjax-support = true
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[output.html.fold]
+code = true
+
+[output.html.minify]
+remove-comments = true
+
+# Add this line to copy the images folder to the output directory
+src = ["src", "images"]
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.plantuml]
+plantuml-cmd="plantuml"
+use-data-uris=true
