@@ -22,3 +22,24 @@ EC2 인스턴스에 장착하여 사용할 수 있는 가상 저장 장치
     - 스냅샷을 이용하여 EBS볼륨과 AMI생성
 - IOPS 저장 장치의 성능 추적 단위
 
+## EBS 볼륨 포맷
+- EC2 인스턴스에 장착된 EBS볼륨의 장치명을 확인
+- EBS 볼륨 선택 후 세부내용에서 Attached Information 확인
+
+- Attached Information에서 확인한 장치를 포맷
+```
+sudo mkfs -t ext4 /dev/sdf
+```
+## EC2인스턴스에 볼륨 마운트
+- 리눅스에서 저장장치 사용을 위해 마운트 필요
+
+```
+sudo mount /dev/sdf /mnt
+```
+`/mnt 아닌 다른 디렉토리 지정 무방`
+
+- 마운트된 저장장치 목록 확인
+```
+df -h
+```
+
