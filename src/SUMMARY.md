@@ -14,6 +14,8 @@
     - [Key Pair](./AWS/Key_Pair.md)
     - [AMI](./AWS/AMI.md)
     - [IAM](./AWS/IAM.md)
+    - [AccessKey](./AWS/AccessKey.md)
+    - [CloudWatch](./AWS/CloudWatch.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)

@@ -51,3 +51,6 @@ AWS의 유저를 관리하는 Global service
 - Action: 이 정책이 허용하는 작업 목록은 거부를 허용합니다.
 - Resource: 작업이 적용된 리소스 목록
 - Condition`조건`: 이 정책이 적용되는 조건(선택 사항)
+
+
+![IAM](../../images/AWS/AWS_IAM.drawio.svg)
