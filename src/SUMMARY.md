@@ -9,6 +9,10 @@
     - [EBS](./AWS/EBS.md)
     - [EBS Snapshot](./AWS/EBS_SNAPSHOT.md)
     - [EC2 기타](./AWS/ec2_etc.md)
+    - [Security Grouop](./AWS/Security_Group.md)
+    - [Elastic IP](./AWS/Elastic_IP.md)
+    - [Key Pair](./AWS/Key_Pair.md)
+    - [AMI](./AWS/AMI.md)
     - [IAM](./AWS/IAM.md)
 
 - [GIT]()
