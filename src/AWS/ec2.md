@@ -9,6 +9,8 @@
 ## EC2 인스턴스 
 EC2에서 생성한 가상서버
 
+[![ec2생성 video](../../images/AWS/AWS_EC2.png)](https://youtu.be/h0n3-sdWPBI) 
+
 ## 인스턴스 패밀리
 
 | 목적 | 유형 | 설명 |

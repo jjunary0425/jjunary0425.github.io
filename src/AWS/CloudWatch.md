@@ -20,3 +20,31 @@ AWS 리소스의 상태를 모니터링 및 측정치`metric`와 연계한 다�
 |ElasticCache | CPU 사용률, 데이터 읽기/쓰기, 네트워크 사용량, 캐시 엔진의 갹 명령어 사용랑| Notification, Auto Scailing|
 |SNS `Simple Notification Service` | 게시 및 전송 메세지 수| Notification, Auto Scailing|
 |SQS `Simple Queue Service` | 전송 및 수신된 메세지 수| Notification, Auto Scailing|
+
+### Cloud Watch 생성 후 메일 알람 받기
+
+![생성](../../images/AWS/AWS_CloudWatch01.png)
+
+![메일](../../images/AWS/AWS_CloudWatch02.png)
+
+## Custom 측정치
+
+Cloud Watch에서는 기본적으로 제공하는 측정치 이외에 사용자가 측정한 값을 사용할 수도 있어 이를 커스텀 측정치 `Custom Metric`이라 한다.
+
+서버 어플리케이션, 로그 파일, 언어 레벨에서 측정치를 생성하고 이값들을 모니터링하거나 Cloud Watch 액션을 제어하고 싶을 때 사용
+
+### AWS CLI 설정
+```
+aws configure
+```
+
+### 커스텀 측정치 생성
+```
+aws cloudwatch put-metric-data --namespace "Hello" --metric-name "World" --value 10
+```
+
+- Linux cron에 등록하여 사용
+- Node.js 의 child_process.exec를 사용
+- AWS Javascript SDK 활용
+
+
