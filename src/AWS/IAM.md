@@ -1,10 +1,10 @@
 # IAM `Identity and Access Management`
 AWS의 유저를 관리하는 Global service
 
-- 기본적으로 생성된 루트 계정은 사용하거나 공유해서는 안 됩니다.
-- 사용자는 조직 내의 사람들이며 그룹화될 수 있습니다.
-- 그룹에는 사용자만 포함되며 다른 그룹은 포함되지 않습니다.
-- 사용자는 반드시 그룹에 속할 필요는 없으며, 여러 그룹에 속할 수 있습니다.
+- 기본적으로 생성된 루트 계정은 사용하거나 공유 X
+- 사용자는 조직 내의 사람들이며 그룹화 가능
+- 그룹에는 사용자만 포함되며 다른 그룹은 포함 X
+- 사용자는 반드시 그룹에 속할 필요는 없으며, 여러 그룹에 할당 가능
 
 ## Permissions
 
@@ -12,9 +12,9 @@ AWS의 유저를 관리하는 Global service
 - These policies define the permissions of the users
 - In AWS you apply the least privilege principle: don’t give more permissions than a user needs
 
-- 사용자 또는 그룹에 정책이라는 JSON 문서를 할당할 수 있습니다.
-- 이러한 정책은 사용자의 권한을 정의합니다.
-- AWS에서는 최소 권한 원칙을 적용합니다. 즉, 사용자에게 필요한 것보다 더 많은 권한을 부여하지 마십시오.
+- 사용자 또는 그룹에 정책이라는 JSON 문서를 할당 가능
+- 이러한 정책은 사용자의 권한을 정의
+- AWS에서는 최소 권한 원칙을 적용 즉, 사용자에게 필요한 것보다 더 많은 권한을 부여 X
 
 ```
 {
