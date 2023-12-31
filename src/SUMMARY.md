@@ -21,6 +21,7 @@
     - [S3 기타 2](./AWS/S3_03.md)
     - [CloudFront](./AWS/CloudFront.md)
     - [RDS](./AWS/RDS.md)
+    - [Dynamo](./AWS/Dynamo.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)
