@@ -43,7 +43,10 @@ Multi-AZ복제 설정 후 메인 DB에 장애 발생 시, Failover가 동작하�
 
 퍼블릭 엑세스 허용 설정 필요
 
+
 외부에서 엔드포인트 주소로 접속하려면 RDS DB 인스턴스 전용 Security Group을 생성하여 MySQL포트(3306) 개방 필요
+
+![public](../../images/AWS/RDS_Public.png)
 
 ## RDS 스냅샷
 
