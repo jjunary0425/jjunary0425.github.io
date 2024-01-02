@@ -20,9 +20,20 @@ AWS콘솔에서도 허용된 리소스만 접근 가능
 
 엑세스 키 별도 생성 가능
 
+## IAM Group
+IAM 사용자를 모아놓은 것
+
+그룹에 접근제어 및 권한 설정 그룹안의 사용자에게 적용
+
 ## IAM Role
 EC2 인스턴스 / 다른 AWS 계정 전용으로 권한 설정 가능
 
+EC2 인스턴스 전용 IAM Role은 EC2 인스턴스 생성시 적용 필요
+
+## Identity Provider
+SAML Provider를 생성
+
+> [자격 공급자](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_roles_providers.html)
 ## Permissions
 
 - Users or Groups can be assigned JSON documents called policies
