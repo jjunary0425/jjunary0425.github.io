@@ -30,3 +30,7 @@ DNS서비스는 도메인에 연결된 IP주소를 전달
 
 > [요금표](https://aws.amazon.com/ko/route53/pricing/)
 
+HostZone -> A record -> service
+
+
+

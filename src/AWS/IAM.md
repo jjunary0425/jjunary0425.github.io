@@ -10,6 +10,8 @@ AWS의 유저를 관리하는 Global service
 - 그룹에는 사용자만 포함되며 다른 그룹은 포함 X
 - 사용자는 반드시 그룹에 속할 필요는 없으며, 여러 그룹에 할당 가능
 
+    > 그룹에 속하지 않은 사용자는 인라인 폴리시 적용 가능
+
 IAM은 AWS 계정안의 IAM 그룹과 사용자를 생성하여 접근 제어 및 권한 관리 세분화 가능
 
 전체 권한이 아닌 필요한 권한만 부여 -> 보안성 높다
@@ -34,7 +36,9 @@ EC2 인스턴스 전용 IAM Role은 EC2 인스턴스 생성시 적용 필요
 SAML Provider를 생성
 
 > [자격 공급자](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_roles_providers.html)
-## Permissions
+## IAM Policy 생성
+
+Visual Editor 이용이 편리하다
 
 - Users or Groups can be assigned JSON documents called policies
 - These policies define the permissions of the users

@@ -23,12 +23,17 @@
     - [RDS](./AWS/RDS.md)
     - [Dynamo](./AWS/Dynamo.md)
     - [Elastic Cache](./AWS/ElasticCache.md)
+    - [Route53](./AWS/Route53.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)
 
 - [English]()
     - [Toeic]()
-        - [Word001](./English/Toeic/word001.md)
-        - [Word002](./English/Toeic/word002.md)
-        - [Word003](./English/Toeic/word003.md)
+        - [Word]()
+            - [001](./English/Toeic/word001.md)
+            - [002](./English/Toeic/word002.md)
+            - [003](./English/Toeic/word003.md)
+
+- [漢字]()
+    - [0001](./Kanji/0001.md)
