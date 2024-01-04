@@ -8,3 +8,32 @@
 - AWS 에서는 IAM`Identity and Access Management`에서 계정을 생성한 뒤 권한을 제한할 것을 권장
 
 ![AccessKey](../../images/AWS/AWS_ACCESS_KEY.png)
+
+## aws cli 엑세스 키 설정
+
+```
+aws configure
+
+```
+동작 확인
+
+```
+aws iam list-users
+```
+
+결과
+
+```
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "rimapa",
+            "UserId": "AIDA3TCCCNUVN4ANEL2FH",
+            "Arn": "arn:aws:iam::796855004458:user/rimapa",
+            "CreateDate": "2023-12-21T06:35:10+00:00",
+            "PasswordLastUsed": "2024-01-04T06:45:24+00:00"
+        }
+    ]
+}
+```
