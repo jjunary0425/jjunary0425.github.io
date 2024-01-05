@@ -27,6 +27,7 @@
     - [Elastic Cache](./AWS/ElasticCache.md)
     - [Route53](./AWS/Route53.md)
     - [ELB](./AWS/ELB.md)
+    - [ASG](./AWS/ASG.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)
@@ -43,8 +44,12 @@
 - [漢字]()
     - [0001](./Kanji/0001.md)
     - [0002](./Kanji/0002.md)
+    - [0003](./Kanji/0003.md)
 
 - [자격증]()
     - [AWS]()
         - [SAA-C03]()
             - [오답노트](./AWS/Certificate/SAA-C03/review_note.md)
+
+- [OpenAPI]()
+    - [OpenAPI 파일 분할하기](./OpenAPI/OepnAPI_sperated_project.md)
