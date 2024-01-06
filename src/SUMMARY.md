@@ -6,6 +6,7 @@
     - [AZ](./AWS/AZ.md)
     - [CDN](./AWS/CDN.md)
     - [EC2](./AWS/ec2.md)
+    - [EC2 Instance Type](./AWS/ec2_instance_type.md)
     - [EBS](./AWS/EBS.md)
     - [EBS Snapshot](./AWS/EBS_SNAPSHOT.md)
     - [EC2 기타](./AWS/ec2_etc.md)
@@ -47,6 +48,7 @@
     - [0001](./Kanji/0001.md)
     - [0002](./Kanji/0002.md)
     - [0003](./Kanji/0003.md)
+    - [0004](./Kanji/0004.md)
 
 - [자격증]()
     - [AWS]()
