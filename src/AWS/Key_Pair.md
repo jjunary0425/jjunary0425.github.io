@@ -19,3 +19,20 @@ EC2 인스턴스에 접속하기 위해 사용하는 암호화된 파일
 - 보안성이 높다
 - 자동화에 유리
 - 인스턴스 생성시 Key Pair 함께 생성
+
+
+## SSH 접속방법
+
+``` sh
+ssh -i {.pem_path/fileName} ec2-user@{public IP address}
+
+```
+
+- .pem fileName : No Space
+
+- 권한 에러가 발생할 경우 권한 지정
+
+``` sh
+chmod 0400 {.pem_path/fileName}
+
+```
