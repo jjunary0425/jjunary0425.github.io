@@ -31,6 +31,8 @@
     - [Route53](./AWS/Route53.md)
     - [ELB](./AWS/ELB.md)
     - [ASG](./AWS/ASG.md)
+    - [VPC](./AWS/VPC.md)
+    - [Glacier](./AWS/Glacier.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)
@@ -45,12 +47,14 @@
             - [01-10](./English/Toeic/EsentailWord1200/001.md)
             - [11-20](./English/Toeic/EsentailWord1200/002.md)
             - [21-30](./English/Toeic/EsentailWord1200/003.md)
+            - [31-40](./English/Toeic/EsentailWord1200/004.md)
 
 - [漢字]()
     - [0001](./Kanji/0001.md)
     - [0002](./Kanji/0002.md)
     - [0003](./Kanji/0003.md)
     - [0004](./Kanji/0004.md)
+    - [0005](./Kanji/0005.md)
 
 - [자격증]()
     - [AWS]()
