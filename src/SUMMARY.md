@@ -33,6 +33,10 @@
     - [ASG](./AWS/ASG.md)
     - [VPC](./AWS/VPC.md)
     - [Glacier](./AWS/Glacier.md)
+    - [Cloud Formation](./AWS/CloudFormation.md)
+    - [ElasticBeansTalk](./AWS/ElastcBeansTalk.md)
+    - [CloudSearch](./AWS/CloudSearch.md)
+    - [SNS](./AWS/SNS.md)
 
 - [GIT]()
     - [config](./GIT/config/config.md)
@@ -48,6 +52,8 @@
             - [11-20](./English/Toeic/EsentailWord1200/002.md)
             - [21-30](./English/Toeic/EsentailWord1200/003.md)
             - [31-40](./English/Toeic/EsentailWord1200/004.md)
+            - [41-50](./English/Toeic/EsentailWord1200/005.md)
+
 
 - [漢字]()
     - [0001](./Kanji/0001.md)
@@ -55,6 +61,8 @@
     - [0003](./Kanji/0003.md)
     - [0004](./Kanji/0004.md)
     - [0005](./Kanji/0005.md)
+    - [0006](./Kanji/0006.md)
+
 
 - [자격증]()
     - [AWS]()
