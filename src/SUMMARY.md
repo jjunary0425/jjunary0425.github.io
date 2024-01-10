@@ -40,6 +40,8 @@
 
 - [GIT]()
     - [config](./GIT/config/config.md)
+    - [github app](./GIT/github_app.md)
+    - [github cli](./GIT/github_cli.md)
 
 - [English]()
     - [Toeic]()
@@ -71,3 +73,4 @@
 
 - [OpenAPI]()
     - [OpenAPI 파일 분할하기](./OpenAPI/OepnAPI_sperated_project.md)
+    - [OpenAPI 코드 생성기](./OpenAPI/OpenApi_oapiCodege.md)
