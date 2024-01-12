@@ -18,6 +18,20 @@ Restful 서비스를 만들기 위해 가장 먼저 definition 작업을 실시�
     │   └── schemas
     └── paths
 ```
+
+folder 구성용 커맨드
+```
+mkdir -p openapi/components/examples
+mkdir -p openapi/components/schemas
+mkdir -p openapi/paths
+touch openapi/openapi.yaml
+
+```
+
+```
+mkdir -p .github/workflows
+touch .github/workflows/update-git-pages.yml
+```
 openapi 공식 사이트의 문법을 참조
 [OpenAPI Guide](https://swagger.io/docs/specification/about/)
 

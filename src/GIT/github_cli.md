@@ -29,3 +29,8 @@ gh repo list --json name,primaryLanguage,languages,owner,createdAt,updatedAt
 ## 커맨드 일람 문서
 
 https://cli.github.com/manual/gh
+
+## create new repository 
+
+
+## actions run

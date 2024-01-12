@@ -9,6 +9,12 @@ oapi-codegen을 이용하여 자동생성을 실시
 
 분할된 파일을 하나의 파일로 변경하는 것이 편리하다.
 
+### swagger-cli 인스톨
+``` sh
+npm install -g @apidevtools/swagger-cli
+```
+
+### 변환 실행
 ``` sh
 swagger-cli bundle -o output/openapi.output.json openapi/openapi.yaml
 
@@ -29,7 +35,7 @@ go install github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen@latest
 ## model 생성
 
 ``` sh
-oapi-codegen -generate "types" -package openapi ../md-convertor-definition/output/openapi.output.json > ./src/type.gen.go
+oapi-codegen -generate "types" -package openapi output/openapi.json > ./openapi/type.gen.go
 ```
 
 ## server 생성

@@ -55,6 +55,8 @@
             - [21-30](./English/Toeic/EsentailWord1200/003.md)
             - [31-40](./English/Toeic/EsentailWord1200/004.md)
             - [41-50](./English/Toeic/EsentailWord1200/005.md)
+            - [51-60](./English/Toeic/EsentailWord1200/006.md)
+            - [61-70](./English/Toeic/EsentailWord1200/007.md)
 
 
 - [漢字]()
@@ -64,6 +66,10 @@
     - [0004](./Kanji/0004.md)
     - [0005](./Kanji/0005.md)
     - [0006](./Kanji/0006.md)
+    - [0007](./Kanji/0007.md)
+    - [0008](./Kanji/0008.md)
+    - [0009](./Kanji/0009.md)
+    - [0010](./Kanji/0010.md)
 
 
 - [자격증]()
@@ -74,3 +80,6 @@
 - [OpenAPI]()
     - [OpenAPI 파일 분할하기](./OpenAPI/OepnAPI_sperated_project.md)
     - [OpenAPI 코드 생성기](./OpenAPI/OpenApi_oapiCodege.md)
+
+- [네이버 개발자 툴]()
+    - [PAPAGO OpenAPI](./NaverDeveloper/papago_openapi.md)
