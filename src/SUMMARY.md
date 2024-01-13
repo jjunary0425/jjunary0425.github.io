@@ -57,6 +57,7 @@
             - [41-50](./English/Toeic/EsentailWord1200/005.md)
             - [51-60](./English/Toeic/EsentailWord1200/006.md)
             - [61-70](./English/Toeic/EsentailWord1200/007.md)
+            - [71-80](./English/Toeic/EsentailWord1200/007.md)
 
 
 - [漢字]()
@@ -70,6 +71,7 @@
     - [0008](./Kanji/0008.md)
     - [0009](./Kanji/0009.md)
     - [0010](./Kanji/0010.md)
+    - [0011](./Kanji/0011.md)
 
 
 - [자격증]()
