@@ -10,8 +10,10 @@
         - [EC2 Instance Type](./AWS/ec2_instance_type.md)
         - [EC2 Purchase Option](./AWS/ec2_purchase_option.md)
         - [EC2 기타](./AWS/ec2_etc.md)
-    - [EBS](./AWS/EBS.md)
-    - [EBS Snapshot](./AWS/EBS_SNAPSHOT.md)
+    - [EBS]()
+        - [개요](./AWS/EBS.md)
+        - [EBS Snapshot](./AWS/EBS_SNAPSHOT.md)
+        - [Volume Types](./AWS/EBS_Volume_Type.md)
     - [Security Grouop](./AWS/Security_Group.md)
     - [Elastic IP](./AWS/Elastic_IP.md)
     - [Key Pair](./AWS/Key_Pair.md)
@@ -57,7 +59,8 @@
             - [41-50](./English/Toeic/EsentailWord1200/005.md)
             - [51-60](./English/Toeic/EsentailWord1200/006.md)
             - [61-70](./English/Toeic/EsentailWord1200/007.md)
-            - [71-80](./English/Toeic/EsentailWord1200/007.md)
+            - [71-80](./English/Toeic/EsentailWord1200/008.md)
+            - [81-80](./English/Toeic/EsentailWord1200/009.md)
 
 
 - [漢字]()
@@ -72,6 +75,7 @@
     - [0009](./Kanji/0009.md)
     - [0010](./Kanji/0010.md)
     - [0011](./Kanji/0011.md)
+    - [0012](./Kanji/0012.md)
 
 
 - [자격증]()
