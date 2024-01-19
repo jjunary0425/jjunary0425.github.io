@@ -40,3 +40,15 @@ Health check를 통해 정상 가동중인 서버에만 전송
 - Surge Queue Length : ELB 에서 EC2로 전달되지 못하고 남아있는 요청의 갯수
 
 - Spillover count : 서지 큐가 꽉차서 ELB가 거부한 요청의 갯수 
+
+
+## Types of load balancer on AWS
+4가지 종류의 관리형 로드 밸런서
+- Classic Load Balancer (v1 - old generation) – 2009 – CLB 
+  - HTTP, HTTPS,TCP,SSL(secureTCP)
+- Application Load Balancer (v2 - new generation) – 2016 – ALB 
+  - HTTP, HTTPS,WebSocket
+- Network Load Balancer (v2 - new generation) – 2017 – NLB 
+  - TCP,TLS(secureTCP),UDP
+- Gateway Load Balancer – 2020 – GWLB
+  - Operates at layer 3 (Network layer) – IP Protocol
