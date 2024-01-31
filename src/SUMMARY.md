@@ -29,6 +29,8 @@
     - [S3 기타 2](./AWS/S3_03.md)
     - [CloudFront](./AWS/CloudFront.md)
     - [RDS](./AWS/RDS.md)
+        - [이점](./AWS/RDS_Advantage.md)
+        - [Read replica & multi AZ](./AWS/RDS_ReadReplica_MultiAZ.md)
     - [Dynamo](./AWS/Dynamo.md)
     - [Elastic Cache](./AWS/ElasticCache.md)
     - [Route53](./AWS/Route53.md)
@@ -89,6 +91,8 @@
     - [0013](./Kanji/0013.md)
     - [0014](./Kanji/0014.md)
     - [0015](./Kanji/0015.md)
+    - [0016](./Kanji/0016.md)
+    
 
 
 - [자격증]()
@@ -102,3 +106,6 @@
 
 - [네이버 개발자 툴]()
     - [PAPAGO OpenAPI](./NaverDeveloper/papago_openapi.md)
+
+- [Books]()
+    - [모두의 네트워크](./Books/minnanonetwork.md)
