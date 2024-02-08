@@ -95,7 +95,7 @@
     - [0014](./Kanji/0014.md)
     - [0015](./Kanji/0015.md)
     - [0016](./Kanji/0016.md)
-    
+    - [0017](./Kanji/0017.md)
 
 
 - [자격증]()
@@ -111,4 +111,6 @@
     - [PAPAGO OpenAPI](./NaverDeveloper/papago_openapi.md)
 
 - [Books]()
-    - [모두의 네트워크](./Books/minnanonetwork.md)
+    - [모두의 네트워크]()
+        - [개요](./Books/MinnanoNetwork/minnanonetwork.md)
+        - [물리계층](./Books/MinnanoNetwork/physicalLayer.md)
