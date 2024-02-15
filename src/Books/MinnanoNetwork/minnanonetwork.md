@@ -1,6 +1,6 @@
 # 모두의 네트워크
 
-![표지](../../../images/Books/minnanonetwork.jpg)
+![표지](../../images/Books/minnanonetwork.jpg)
 
 ## 네트워크의 구조
 
@@ -89,7 +89,7 @@ ISO에서 정한 네트워크의 기본이 되는 모델
 
 - 역캡슐화 : 데이터의 헤더와 트레일러를 제거해 나가는 것
 
-![capsule](../../../images/Books/capsulation.png)
+![capsule](../../images/Books/capsulation.png)
 
 > 각 레이어에서 헤더와 데이터 트레일러를 수집한 데이터는 최종적으로 전기신호로 전달된다
 

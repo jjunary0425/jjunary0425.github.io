@@ -248,4 +248,4 @@ jobs:
 
 git hub page의 구성은 gh-pages 브런치에서 디플로이하도록 세팀
 
-![pages](../../images/OpenAPI/githubpagessetting.png)
+![pages](../images/OpenAPI/githubpagessetting.png)

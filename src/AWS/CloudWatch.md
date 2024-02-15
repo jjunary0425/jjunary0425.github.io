@@ -7,7 +7,7 @@ AWS 리소스의 상태를 모니터링 및 측정치`metric`와 연계한 다�
 - 기본 모니터링 간격 : 5분 (무료)
 - 세부 모니터링 간격 : 1분 (추가 요금)
 
-![CloudWatch](../../images/AWS/AWS_CloudWatch_EC2.drawio.svg)
+![CloudWatch](../images/AWS/AWS_CloudWatch_EC2.drawio.svg)
 
 ## 각 리소스에 따른 측정치 및 액션
 | AWS Resource |Metric | Actions|
@@ -23,9 +23,9 @@ AWS 리소스의 상태를 모니터링 및 측정치`metric`와 연계한 다�
 
 ### Cloud Watch 생성 후 메일 알람 받기
 
-![생성](../../images/AWS/AWS_CloudWatch01.png)
+![생성](../images/AWS/AWS_CloudWatch01.png)
 
-![메일](../../images/AWS/AWS_CloudWatch02.png)
+![메일](../images/AWS/AWS_CloudWatch02.png)
 
 ## Custom 측정치
 

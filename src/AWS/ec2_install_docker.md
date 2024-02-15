@@ -9,10 +9,10 @@ AWS EC2에서 도커 이미지를 실행하가 위하여 EC2에 도커를 설치
 
 이전에 생성하고 중지해둔 인스턴스를 시작
 
-![001](../../images/AWS/EC2_Docker/001.png)
+![001](../images/AWS/EC2_Docker/001.png)
 
 `인스턴스에 연결`을 이용하여 EC2에 접속
-![002](../../images/AWS/EC2_Docker/002.png)
+![002](../images/AWS/EC2_Docker/002.png)
 
 인스턴스에 설치한 패키지 및 패키지 캐시를 업데이트
 

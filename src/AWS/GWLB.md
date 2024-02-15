@@ -9,4 +9,4 @@
 - 로드 밸런서 – 가상 어플라이언스에 트래픽을 분산
 - 포트 6081에서 GENEVE 프로토콜을 사용
 
-![GWLB](../../images/AWS/AWS_GWLB.drawio.svg)
+![GWLB](../images/AWS/AWS_GWLB.drawio.svg)

@@ -7,7 +7,7 @@
 - 아날로그 신호 : 물결모양, 전화/라디오
 - 디지털 신호 : 막대모양
 
-![electronic](../../../images/Books/electtronic.png)
+![electronic](../../images/Books/electtronic.png)
 
 송신 측에서 보내는 데이터를 전기신호로 변환하여 수신측에 전달
 

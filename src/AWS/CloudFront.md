@@ -10,7 +10,7 @@ CloudFront를 사용해야 하는 이유 : 전송 속도 향상과 비용 절감
 - 에지 로케이션에 캐시파일 유지 시간 : 기본 24시간, HTTP 헤더 Cache-Control로 조절 가능
 -  무효화 `Invalidation`요청을 통해 캐시된 파일 삭제 가능
 
-![CloudFront](../../images/AWS/AWS_CDN.drawio.svg)
+![CloudFront](../images/AWS/AWS_CDN.drawio.svg)
 
 ## Cloud Front와 일반적인 CDN의 차이점
 - 동적 컨텐츠 전송 `Dynamic Content Delivery` 지원

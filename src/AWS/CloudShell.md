@@ -1,7 +1,7 @@
 # CloudShell
 일부 리전에서만 사용가능
 
-![cloudsehll](../../images/AWS/cloudshell.png)
+![cloudsehll](../images/AWS/cloudshell.png)
 
 [사용가능리전](https://docs.aws.amazon.com/ko_kr/cloudshell/latest/userguide/supported-aws-regions.html)
 

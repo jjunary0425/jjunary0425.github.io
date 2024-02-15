@@ -17,7 +17,7 @@ gh auth login
 
 몇가지 질문에 대답한 후 웹에서 인증 완료
 
-![인증 결과](../../images/Git/gihub_cli_auth.png)
+![인증 결과](../images/Git/gihub_cli_auth.png)
 
 
 ## 동작 확인 

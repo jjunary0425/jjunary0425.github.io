@@ -13,7 +13,7 @@ Cloud Watch와 연동하여 CPU, 네트워크 사용이 늘어나거나 줄어�
 EC2 생성은 AMI를 이용 
 <br>AMI 생성시 유저 데이터의 스크립트를 이용하여 깃에서 어플리케이션 기동
 
-![ASG](../../images/AWS/AWS_Autoscale.drawio.svg)
+![ASG](../images/AWS/AWS_Autoscale.drawio.svg)
 
 ## Auto Scaling 그룹 – 동적 조정 정책
 - TargetTracking 스케일링

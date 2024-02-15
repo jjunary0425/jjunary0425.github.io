@@ -3,7 +3,7 @@
 - 같은 지역 도시라해도 멀리 떨어져있음
 - 하나의 가용영역이 작동불능이 되더라도 다른 가용영역에서 서비스 재개
 
-![Availability Zone](../../images/AWS/AWS_Availability_Zone.drawio.svg)
+![Availability Zone](../images/AWS/AWS_Availability_Zone.drawio.svg)
 ### Each region has many availability zones
  (usually 3, min is 2, max is 6). Example:
 

@@ -7,7 +7,7 @@
 - 가까운 리전에 접속하여 네트워크 속도를 빠르게 한다
 - 재해에 대비
 
-![AWS GLOBAL Infra](../../images/AWS/AWS_Global_Region.png)
+![AWS GLOBAL Infra](../images/AWS/AWS_Global_Region.png)
 
 ## AWS Regions
 - AWS has Regions all around the world 

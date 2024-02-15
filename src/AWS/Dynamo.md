@@ -12,7 +12,7 @@ NoSQL 데이터 베이스를 제공하는 서비스
 
 Dynamo DB는 리전 별로 생성할 수 있으며, 성능과 가용성을 위해 데이터를 3곳의 AZ에 복제 -> 장애대응, 가용성과 지속성, 백업 불필요
 
-![Dynamo](../../images/AWS/AWS_DYNAMO.drawio.svg)
+![Dynamo](../images/AWS/AWS_DYNAMO.drawio.svg)
 
 저장 용량 무제한
 
@@ -55,7 +55,7 @@ DynamoDB의 데이터 조회 방법
 - Query : 해시에 값, 범위에 조건을 지정하여 데이터 검색
 
 > Json으로 항목 생성
-![json](../../images/AWS/DynamoJson.png)
+![json](../images/AWS/DynamoJson.png)
 
 > Query
-![Query](../../images/AWS/DynamoQuery.png)
+![Query](../images/AWS/DynamoQuery.png)

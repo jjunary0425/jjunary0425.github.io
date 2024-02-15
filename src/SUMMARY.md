@@ -115,4 +115,4 @@
     - [모두의 네트워크]()
         - [개요](./Books/MinnanoNetwork/minnanonetwork.md)
         - [물리계층](./Books/MinnanoNetwork/physicalLayer.md)
-        - [데이터링크계층](./Books/MinnanoNetwork/dataLinkLayer.md.md)
+        - [데이터링크계층](./Books/MinnanoNetwork/dataLinkLayer.md)

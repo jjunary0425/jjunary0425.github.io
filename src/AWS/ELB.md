@@ -12,7 +12,7 @@ Health check를 통해 정상 가동중인 서버에만 전송
 
 외부 트래픽 뿐아니라 내부 트래픽에서도 사용 가능
 
-![ELB](../../images/AWS/AWS_ELB.drawio.svg)
+![ELB](../images/AWS/AWS_ELB.drawio.svg)
 
 ## ELB의 기본 개념
 

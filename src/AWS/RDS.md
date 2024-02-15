@@ -11,7 +11,7 @@ RDS를 사용해야 하는 이유 : 성능, 편의성, 시간 절약
 
 Read Replica를 이용한 읽기 성능 향상
 
-![RDS](../../images/AWS/AWS_RDS.drawio.svg)
+![RDS](../images/AWS/AWS_RDS.drawio.svg)
 
 ## RDS 인스턴스 클래스
 
@@ -46,7 +46,7 @@ Multi-AZ복제 설정 후 메인 DB에 장애 발생 시, Failover가 동작하�
 
 외부에서 엔드포인트 주소로 접속하려면 RDS DB 인스턴스 전용 Security Group을 생성하여 MySQL포트(3306) 개방 필요
 
-![public](../../images/AWS/RDS_Public.png)
+![public](../images/AWS/RDS_Public.png)
 
 ## RDS 스냅샷
 

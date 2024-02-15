@@ -42,7 +42,7 @@ EC2를 아는 것은 클라우드 작동 방식을 이해하는 데 필수
 ## EC2 인스턴스 
 EC2에서 생성한 가상서버
 
-[![ec2생성 video](../../images/AWS/AWS_EC2.png)](https://youtu.be/h0n3-sdWPBI) 
+[![ec2생성 video](../images/AWS/AWS_EC2.png)](https://youtu.be/h0n3-sdWPBI) 
 
 ## 인스턴스 패밀리
 

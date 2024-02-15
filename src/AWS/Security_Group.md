@@ -4,7 +4,7 @@ EC2에 설정할 수 있는 방화벽
 
 서버 보안의 기본은 방화벽 설정에서 출발
 
-![Security Group](../../images/AWS/AWS_Security_Group.drawio.svg)
+![Security Group](../images/AWS/AWS_Security_Group.drawio.svg)
 
 - 여러 인스턴스에 연결 가능
 - 리전/VPC 조합으로 고정됨

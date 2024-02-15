@@ -7,7 +7,7 @@
 - 엑세스 키와 시크릿 키 유출되지 않도록 주의
 - AWS 에서는 IAM`Identity and Access Management`에서 계정을 생성한 뒤 권한을 제한할 것을 권장
 
-![AccessKey](../../images/AWS/AWS_ACCESS_KEY.png)
+![AccessKey](../images/AWS/AWS_ACCESS_KEY.png)
 
 ## aws cli 엑세스 키 설정
 

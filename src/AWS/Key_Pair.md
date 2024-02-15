@@ -11,7 +11,7 @@ EC2 인스턴스에 접속하기 위해 사용하는 암호화된 파일
     - Public Key : 암호화 키, 공개키
     - Pricate Key : 복호화 키, 개인키 (비밀키)
 
-![RSA](../../images/AWS/RSA_Algorithm.drawio.svg)
+![RSA](../images/AWS/RSA_Algorithm.drawio.svg)
 
 ## AWS에서의 Key Pair
 - Public Key, Private Key Pair

@@ -47,7 +47,7 @@ EBS 볼륨 6가지 종류
 ---
 
 > [ebs-volume-types](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-volume-types.html)
-![EBS TYPE](../../images/AWS/EBS_VolumeType.png)
+![EBS TYPE](../images/AWS/EBS_VolumeType.png)
 
 ## EBS Multi-Attach – io1/io2 family
 

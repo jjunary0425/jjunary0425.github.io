@@ -95,15 +95,15 @@ Visual Editor 이용이 편리하다
 - Condition`조건`: 이 정책이 적용되는 조건(선택 사항)
 
 
-![IAM](../../images/AWS/AWS_IAM.drawio.svg)
+![IAM](../images/AWS/AWS_IAM.drawio.svg)
 
 ## IAM 보안 도구
 - IAM 자격 증명 보고서(계정 수준) `IAM Credentials Report (account-level)`
     - 계정의 모든 사용자와 다양한 사용자 상태를 나열하는 보고서
     - 사용자가 비밀번호를 바꾸고 있는지 등 보안 관련 정보 확인에 유용
-    ![credentail](../../images/AWS/iamcredentialreport.png)
+    ![credentail](../images/AWS/iamcredentialreport.png)
 신임장
 - IAM 액세스 관리자(사용자 수준) `IAM Access Advisor (user-level)`
     - 액세스 조언자는 사용자에게 부여된 서비스 권한과 해당 권한이 부여된 시기를 표시
     - 해댱 유저가 서비스에 마지막으로 액세스한 정보를 표시 -> 최소권한원칙에 의거하여 사용하지 않는 서비스에 대한 권한 제거하여 보안성 향상
-    ![accessadviser](../../images/AWS/Accessadviser.png)
+    ![accessadviser](../images/AWS/Accessadviser.png)
