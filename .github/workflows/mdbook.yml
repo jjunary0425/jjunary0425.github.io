@@ -50,7 +50,7 @@ jobs:
       - name: Build with mdBook
         run: mdbook build
       - name: copy images
-        run: cp -r ./images ./book
+        run: cp -r ./src/images ./book
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
