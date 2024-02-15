@@ -37,6 +37,7 @@
     - [Dynamo](./AWS/Dynamo.md)
     - [Elastic Cache](./AWS/ElasticCache.md)
     - [Route53](./AWS/Route53.md)
+        - [DNS 개요](./AWS/Route53_dns.md)
     - [ELB](./AWS/ELB.md)
         - [ALB](./AWS/ALB.md)
         - [NLB](./AWS/NLB.md)
@@ -114,3 +115,4 @@
     - [모두의 네트워크]()
         - [개요](./Books/MinnanoNetwork/minnanonetwork.md)
         - [물리계층](./Books/MinnanoNetwork/physicalLayer.md)
+        - [데이터링크계층](./Books/MinnanoNetwork/dataLinkLayer.md.md)
